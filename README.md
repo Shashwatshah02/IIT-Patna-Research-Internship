@@ -1,0 +1,1 @@
+This project focuses on converting video content into text and summarizing it to extract key information. Developed for the fintech domain, the system utilizes Assembly AI API for transcription and leverages Transformers and the pipeline features for efficient text summarization, providing insights from video data in a comprehensive manner.
