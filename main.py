@@ -3,7 +3,8 @@ import pandas as pd
 from transformers import pipeline
 
 
-aai.settings.api_key = "add180cc27d44048aa7335d98d33306c"
+aai.settings.api_key = ""
+
 transcriber = aai.Transcriber()
 
 transcript = transcriber.transcribe("./English in a Minute_ Party Animal.mp4")
